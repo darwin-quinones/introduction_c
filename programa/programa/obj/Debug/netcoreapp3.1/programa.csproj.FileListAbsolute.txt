@@ -1,0 +1,13 @@
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\bin\Debug\netcoreapp3.1\programa.exe
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\bin\Debug\netcoreapp3.1\programa.deps.json
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.json
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.dev.json
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\bin\Debug\netcoreapp3.1\programa.dll
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\bin\Debug\netcoreapp3.1\programa.pdb
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\obj\Debug\netcoreapp3.1\programa.csprojAssemblyReference.cache
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfoInputs.cache
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfo.cs
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\obj\Debug\netcoreapp3.1\programa.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\obj\Debug\netcoreapp3.1\programa.dll
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\obj\Debug\netcoreapp3.1\programa.pdb
+C:\Users\desarrollador1\Desktop\darwin\c#\introduccion_c#\programa\programa\obj\Debug\netcoreapp3.1\programa.genruntimeconfig.cache
